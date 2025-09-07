@@ -41,3 +41,6 @@ Hi, I'm Railan_Dev!
 ![MySQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 
 Passionate about **GNU/Linux**. Likes to write code. **Scroll down!**
+
+
+E-mail: railandejesusdossantos@gmail.com
