@@ -11,7 +11,6 @@ Hi, I'm Railan_Dev!
 <hr>
 
 ```
-I-am-vishalmaurya@github
 -------------------------
 💻 Backend Developer | API Specialist | Server-side Enthusiast  
 📚 Bachelor's in Computer Science  
