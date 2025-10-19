@@ -21,7 +21,7 @@ Hi!
 <hr>
 
 
-<img align="left" src="https://orhun.dev/img/crow.png">
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Railan%20de%20Jesus%20dos%20Santos-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/railandev7)
 [![Twitter](https://img.shields.io/badge/Twitter-@RailanSant71801-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/RailanSant71801)
