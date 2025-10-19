@@ -1,3 +1,65 @@
+## Olá, meu nome é Railan!
+
+### ⚙️ GitHub Analytics
+
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dark&hide_border=false&include_all_commits=true"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=iuricode&theme=dark&hide_border=false"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🏆 GitHub Profile Trophy
+
+<p align="center">
+  <a
+    href="https://github.com/ryo-ma/github-profile-trophy"
+    title="repositório de troféus"
+  >
+    <img
+      width="800"
+      src="https://github-profile-trophy.vercel.app/?username=iuricode&column=8&theme=darkhub&no-frame=true&no-bg=true"
+    />
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/iuricode/count.svg"
+    alt="Número de visitantes no perfil"
+  />
+</p>
+
+---
+
 <h1 align="center">
 Hi!
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
@@ -6,27 +68,19 @@ Hi!
 <img src="https://gpvc.arturio.dev/I-am-vishalmaurya" alt="Profile views" align='right'/>
 <br/>
 
-
 <hr>
 
-```
--------------------------
-💻 Backend Developer | API Specialist | Server-side Enthusiast  
-📚 Bachelor's in Computer Science  
-📝 Focused on automation, system integration, and scalable architectures  
-🔭 Working with Python, Java, Flask, FastAPI, MySQL, and Node.js  
-🌟 Also familiar with front-end: JavaScript, React, HTML & CSS  
-⚡ Passionate about clean code, performance, and secure systems
-```
+
 <hr>
 
 <img align="left" src="https://orhun.dev/img/crow.png">
 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Railan%20de%20Jesus%20dos%20Santos-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/railandev7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Railan%20de%20Jesus%20dos%20Santos-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/railandev7)  
 [![Twitter](https://img.shields.io/badge/Twitter-@RailanSant71801-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/RailanSant71801)
 
-##### 💻 Backend
+---
+
+### 💻 Backend
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
@@ -43,7 +97,9 @@ Hi!
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma)
 ![TypeORM](https://img.shields.io/badge/-TypeORM-000000?style=flat&logo=typeorm)
 
-##### 🌐 Frontend
+---
+
+### 🌐 Frontend
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react)
@@ -55,7 +111,9 @@ Hi!
 ![ContextAPI](https://img.shields.io/badge/-ContextAPI-000000?style=flat)
 ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat&logo=storybook)
 
-##### 🛠️ Tools & Testing
+---
+
+### 🛠️ Tools & Testing
 
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest)
 ![Vitest](https://img.shields.io/badge/-Vitest-000000?style=flat)
@@ -63,7 +121,7 @@ Hi!
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
 
-Passionate about **GNU/Linux**. Likes to write code. **Scroll down!**  
+---
 
-E-mail: railandejesusdossantos@gmail.com
+📌 **E-mail para contato:** `railandejesusdossantos@gmail.com`
 
