@@ -6,7 +6,7 @@ Hi!
 <img src="https://gpvc.arturio.dev/I-am-vishalmaurya" alt="Profile views" align='right'/>
 <br/>
 
-<img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel free to open a pull request if found" width="320" />
+
 <hr>
 
 ```
@@ -20,7 +20,7 @@ Hi!
 ```
 <hr>
 
-
+<img align="left" src="https://orhun.dev/img/crow.png">
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Railan%20de%20Jesus%20dos%20Santos-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/railandev7)
