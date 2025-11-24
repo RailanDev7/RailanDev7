@@ -7,7 +7,6 @@
 ---
 
 ⚡ **Backend & Mobile Developer (Node.js / Flutter / Kotlin)**  
-APIs escaláveis, mobile moderno, performance e arquitetura limpa.
 
 ---
 
