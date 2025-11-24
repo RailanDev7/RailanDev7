@@ -6,11 +6,18 @@
 
 ---
 
-⚡ **Backend & Mobile Developer (Node.js / Flutter / Kotlin)**  
+### Desenvolvedor Full Stack Sênior
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-986DFF?style=flat-square&logo=Linkedin&logoColor=fff&link=https://www.linkedin.com/in/iuricode/)](https://www.linkedin.com/in/iuricode/) 
+[![Gmail Badge](https://img.shields.io/badge/-iuricold99@gmail.com-986DFF?style=flat-square&logo=Gmail&logoColor=fff&link=mailto:iuricold99@gmail)](mailto:iuricold99@gmail.com)
+
+Sou Desenvolvedor Full Stack Sênior com 5 anos de mercado e graduação superior em Sistemas para Internet pela Fatec. Apaixonado por transformar ideias complexas em interfaces intuitivas, valorizo boas práticas como SEO, Performance, Clean Code e Usabilidade para entregar sistemas confiáveis e fáceis de manter. Colaboro constantemente com equipes para criar produtos digitais que geram impacto.
 
 ---
 
-<img align="left" src="https://orhun.dev/img/crow.png" width="130"/>
+⚡ **Backend & Mobile Developer (Node.js / Flutter / Kotlin)**  
+
+---
 
 ### 🌎 Social
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Railan%20Santos-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/railandev7)
@@ -70,4 +77,5 @@
 
 🖥️ Passionate about GNU/Linux  
 📩 **E-mail:** railandejesusdossantos@gmail.com
+
 
