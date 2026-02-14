@@ -1,102 +1,102 @@
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Railan%20Santos-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/railandev7)
+<!-- Dynamic Profile Views Count -->
+<img align="right" src="https://komarev.com/ghpvc/?username=SEUUSUARIO&label=Visit+Count&color=00C2FF&style=plastic" alt="SEUUSUARIO" />
 
-<h1 align="center">
-Hi, I'm Railan 👋
-</h1>
+<!-- My Introduction -->
+<h1 align="center">Hey 👋, I'm Railan</h1>
+<h3 align="center">Backend JavaScript Developer | Node.js & API Architecture Enthusiast</h3>
 
-<img src="https://komarev.com/ghpvc/?username=SEUUSUARIO&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="SEUUSUARIO" />
-
+<!-- Dynamic Typing Animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Arial+Rounded+MT&size=30&width=500&height=70&duration=4000&pause=1000&color=00C2FF&lines=Backend+Development;Node.js+%26+Express;REST+APIs+%26+Authentication;System+Design+%26+Performance" alt="Typing Animation" />
+</div>
 <br/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Developer;Node.js+Specialist;API+Architecture+Enthusiast;Always+Learning+and+Building&center=true&width=420&height=45">
-</p>
+<!-- Programmer GIF -->
+<img align="right" alt="Backend Developer" width="400" src="./img/programmer.gif" />
 
+<!-- Details About Me -->
+
+- 🔭 I’m currently building **scalable backend applications with Node.js**
+
+- 🌱 I’m currently learning **advanced backend architecture & performance optimization**
+
+- 👯 I’m looking to collaborate on **Backend APIs & Real-time systems**
+
+- 🤝 I’m looking for help with **distributed systems & scaling**
+
+- 💬 Ask me about **Node.js, Express, REST APIs, Authentication, Databases**
+
+- ⚡ Focus: **Build scalable, secure and high-performance systems**
+
+- 🌎 Location: **Brazil**
+
+- 🌐 Let's **build powerful backend systems together**
+<br/>
+
+<!-- Social Links -->
+<div align="center"> 
+  <a href="mailto:seuemail@email.com">
+    <img src="https://img.shields.io/badge/Gmail-D6D6D6?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://github.com/SEUUSUARIO">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/seulinkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://x.com/seuusuario" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-FFFFFF?style=for-the-badge&logo=x&logoColor=black" target="_blank" />
+  </a>
+</div>
+<br/>
+
+<!-- GitHub Trophies Card -->
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=SEUUSUARIO&theme=algolia" />
+  </a>
+</div>
 <hr/>
+<br/>
 
-<samp>
-Backend Developer focused on building scalable APIs, secure authentication systems, and high-performance server-side applications.  
-Passionate about clean architecture, system design, and writing efficient, maintainable code.
-</samp>
+<!-- Tools & Technologies -->
+<div align="center">
+    <h2>⚒️ Backend Stack ⚒️</h2>
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,nestjs" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=docker,linux,git,github,postman" />
+</div>
+<br/><br/>
 
----
+<!-- My Contribution Chart With Snake Animation -->
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <img alt="Contribution Chart Snake Animation" src="https://raw.githubusercontent.com/SEUUSUARIO/SEUUSUARIO/output/github-contribution-grid-snake.svg" />
+</div>
+<br/><br/>
 
-## 🚀 About Me
-
-- 💻 Backend Developer (JavaScript / Node.js)
-- 🔐 Interested in Authentication & Security
-- 🏗️ Building REST APIs & Real-time systems
-- 📚 Always improving architecture & performance knowledge
-- 🎯 Focused on becoming a high-level backend engineer
-
----
-
-## 🛠️ Tech Stack
-
-### 👨‍💻 Languages
-
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-025E8C?logo=postgresql&logoColor=white"/>
-</p>
-
-### ⚙️ Backend & Frameworks
-
-<p>
-  <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-404D59?logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white"/>
-</p>
-
-### 🗄️ Databases
-
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4ea94b?logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white"/>
-</p>
-
-### ☁️ DevOps & Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<details>
-  <summary>💻 Profile Stats</summary>
+<!-- My Profile Stats -->
+<div align=center>
+  <h2>📊 Statistics 📊</h2>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&count_private=true&show_icons=true&theme=vision-friendly-dark&rank_icon=github&border_radius=10" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=SEUUSUARIO&theme=vision-friendly-dark&border_radius=10" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=react&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=react&hide_border=true"/>
-</details>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=vision-friendly-dark&border_radius=10" />
+</div>
+<br/><br/>
 
----
+<!-- Banner -->
+<hr/>
+<img align="center" alt="Banner" src="./img/banner.png" />
 
-## 🔥 Current Focus
+<!-- Footer -->
+<img align="center" alt="Footer" src="./img/footer.svg" />
 
-- 🧠 System Design & Scalable Architecture
-- 🔐 JWT, OAuth, Role-based authentication
-- ⚡ Performance optimization & caching
-- 📡 WebSockets & Real-time communication
-- 🧩 Clean Code & SOLID principles
-
----
-
-## 📬 Let's Connect
-
-<p align="center">
-  <a href="https://github.com/SEUUSUARIO"><img src="https://img.icons8.com/bubbles/50/000000/github.png"/></a>
-  <a href="mailto:seuemail@email.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/></a>
-</p>
   
 📩 **E-mail:** railandejesusdossantos@gmail.com
 
