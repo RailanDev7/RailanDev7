@@ -39,17 +39,6 @@
 
 ---
 
-### 📊 GitHub Statistics
-
-<div align="center">
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=RailanDev7&count_private=true&show_icons=true&theme=vision-friendly-dark&rank_icon=github&border_radius=10" />
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=RailanDev7&theme=vision-friendly-dark&border_radius=10" />
-  <br/>
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=RailanDev7&layout=compact&theme=vision-friendly-dark&border_radius=10" />
-</div>
-
----
-
 <img align="center" alt="Banner" src="https://github.com/user-attachments/assets/d3d988e1-f34e-401c-a842-fbfde67604ef" />
 
 ---
